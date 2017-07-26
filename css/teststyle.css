@@ -1,0 +1,41 @@
+.no-margin{
+	margin: 0px;
+}
+
+.no-padding {
+	padding: 0px;
+}
+
+.custom-carousel{
+  width: 70%;
+}
+
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
+    height: 450px;
+}
+
+
+.navbar{
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
+
+.nav-container{
+	width: 80%;
+	height: 50px;
+}
+
+#logo{
+	height: 375%;
+	margin-top: -15px;
+	margin-right: 0px;
+}
+
+.slide-content {
+	color: #f0f0f0;
+}
+
+.carousel-img-caption{
+	text-align: left;
+}
